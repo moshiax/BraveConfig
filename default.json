@@ -113,7 +113,7 @@
       "type": "REG_DWORD"
     },
     "DeveloperToolsDisabled": {
-      "value": 1,
+      "value": 0,
       "type": "REG_DWORD"
     }
   },
